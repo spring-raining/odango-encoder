@@ -1,0 +1,27 @@
+{
+  "name": "odango-encoder",
+  "version": "1.0.0",
+  "description": "Odango encodes everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/spring-raining/odango-encoder.git"
+  },
+  "author": "spring-raining",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spring-raining/odango-encoder/issues"
+  },
+  "homepage": "https://github.com/spring-raining/odango-encoder#readme",
+  "dependencies": {
+    "co-body": "^4.2.0",
+    "dateformat": "^1.0.12",
+    "koa": "^1.2.4",
+    "koa-route": "^2.4.2",
+    "mkdirp": "^0.5.1",
+    "opts": "^1.2.2"
+  }
+}
